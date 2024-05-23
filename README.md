@@ -1,2 +1,15 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xiaoyueyoqwq&include_all_commits=true&count_private-true&custom_title=xiaoyueyoqwq'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend">
+<img src="/unnamed.jpg" alt="Logo" align="right" width="165">
+
+### Nice to meet you, here is xiaoyueyoqwq!
+
+#### About me?
+* Hi, welcom to my github profile page!
+* I'm now active on a Minecraft server called [INFINITYCRAFT](https://ifcserver.world/)
+* I'm still working on UNIX and Server Manage
+* Want to connect with me? Follow my [Persional Page](https://xiaoyueyoqwq.ifcserver.world/)
+* Last, wish you had a great day bub :><br>
+
+### Github code stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=xiaoyueyoqwq&show_icons=true&theme=radical" alt="Logo" align="left" width="365">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyueyoqwq" alt="Logo" align="left" width="365">
