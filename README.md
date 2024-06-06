@@ -1,6 +1,6 @@
 ### Nice to meet you, here is xiaoyueyoqwq!
 
-<img src="/unnamed.jpg" alt="Logo" align="right" width="165">
+<img src="https://4782.kstore.space/xiaoyueyoqwq.jpg?password=cb4499c2bb1498bf04068f09c2466953-1715632665805" alt="Logo" align="right" width="165">
 
 #### About me?
 * Hi, welcom to my github profile page!
