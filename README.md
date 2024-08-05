@@ -4,7 +4,7 @@
 
 #### About me?
 * Hi, welcom to my github profile page!
-* I'm now active on a Minecraft server called [INFINITYCRAFT](https://ifcserver.world/)
+* I'm now active on Xbox and I'm proud of be a Xbox Ambassador
 * I'm still working on UNIX and Server Manage
 * Want to connect with me? Follow my [Persional Page](https://xiaoyueyoqwq.ifcserver.world/)
 * Last, wish you had a great day bub :><br>
