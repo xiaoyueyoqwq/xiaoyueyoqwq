@@ -12,4 +12,3 @@
 ### Github code stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=xiaoyueyoqwq&show_icons=true&theme=radical" alt="Logo" align="left" width="365">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyueyoqwq" alt="Logo" align="left" width="365">
