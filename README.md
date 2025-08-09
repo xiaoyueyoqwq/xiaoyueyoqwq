@@ -5,9 +5,10 @@
 #### About me?
 * Hi, welcom to my github profile page!
 * I'm now active on Xbox and I'm proud of be a Xbox Ambassador
+* I'm a THE FINALS contestant too and I develop a simple python program THE FINALS QQBOT
 * I'm still working on UNIX and Server Manage
-* Want to connect with me? Follow my [Persional Page](https://xiaoyue.moliatopia.icu/)
-* Last, wish you had a great day bub :><br>
+* Want to connect with me? Follow my [Persional Page](https://xiaoyue.vaiiya.org)
+* Last, wish you have a good day<br>
 
 ### Github code stats
 
