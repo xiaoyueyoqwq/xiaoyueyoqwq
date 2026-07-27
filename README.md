@@ -1,6 +1,6 @@
 ### Nice to meet you, here is xiaoyueyoqwq!
 
-<img src="https://q2.qlogo.cn/headimg_dl?dst_uin=1163529153&spec=640" alt="Logo" align="right" width="165">
+<img src="https://avatars.githubusercontent.com/u/71379165?v=4" alt="Logo" align="right" width="165">
 
 #### About me?
 * Hi, welcom to my github profile page!
