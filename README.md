@@ -6,7 +6,7 @@
 * Hi, welcom to my github profile page!
 * I build a [project](https://deepwiki.com/xiaoyueyoqwq/xbox-now-playing-tracker) for all Xbox Fans!
 * I'm the [VAIIYA Website](https://vaiiya.org/) developer too, *VAIIYA, We As One.*
-* Want to connect with me? Follow my [Persional Page](https://xiaoyue.vaiiya.org)<br>
+* Want to connect with me? Follow my [Personal Page](https://xiaoyue.vaiiya.org)<br>
 * My Xbox Live Status<br>
 [<img src="https://xbox-tracker.vaiiya.org/api/card?gamertag=xiaoyueyoqwq" alt="Xbox Now Playing" height="165" />](https://xbox-tracker.vaiiya.org/)
 
